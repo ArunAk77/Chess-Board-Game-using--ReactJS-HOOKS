@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chess-Board-Game-using--ReactJS-HOOKS-Spring-/static/css/main.6759f842.css",
+    "main.js": "/Chess-Board-Game-using--ReactJS-HOOKS-Spring-/static/js/main.853e589e.js",
+    "index.html": "/Chess-Board-Game-using--ReactJS-HOOKS-Spring-/index.html",
+    "main.6759f842.css.map": "/Chess-Board-Game-using--ReactJS-HOOKS-Spring-/static/css/main.6759f842.css.map",
+    "main.853e589e.js.map": "/Chess-Board-Game-using--ReactJS-HOOKS-Spring-/static/js/main.853e589e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6759f842.css",
+    "static/js/main.853e589e.js"
+  ]
+}
